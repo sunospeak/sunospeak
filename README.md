@@ -1,6 +1,6 @@
 # SunoSpeak
 
-[Cursor](https://sunospeak.com) is an AI-powered voice dictation app that lets you write, edit, and control your computer using your voice.
+[SunoSpeak](https://sunospeak.com) is an AI-powered voice dictation app that lets you write, edit, and control your computer using your voice.
 
 SunoSpeak goes beyond traditional speech-to-text by enabling voice commands, intelligent editing, and fast private transcription.
 
